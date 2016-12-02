@@ -14,7 +14,7 @@ the one is generated from gamma camera(#1), another is generated from gamma came
 
 
 ### Figure    
-<img src = https://github.com/wjcheon/DualGammaCamera_Geant4/blob/master/DualGammaCamera_Geometry_Geant4.png />  
+<img src = https://github.com/wjcheon/DualGammaCamera_published_Geant4/blob/master/DualGammaCamera_Geometry_Geant4.png />  
 Fig.1 The simulation geometry of Dual Gamma Cameras.   
   
 
